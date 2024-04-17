@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#FF4D4D</color>
+    <color name="yello">#F2B931</color>
+    <color name="green">#32DF13</color>
+    <color name="blue">#0A4CAF</color>
+    <color name="card_bg">#2A2E36</color>
+    <color name="card_bg_logo">#373B41</color>
+    <color name="card_virtical_line">#55585D</color>
+    <color name="prog_red">#EC5757</color>
+    <color name="prog_oreng">#FF964C</color>
+    <color name="prog_yello">#FFEA2E</color>
+    <color name="prog_green">#6EF358</color>
+    <color name="gray_circle">#D9D9D9</color>
+    <color name="selected_tab">#FF6767</color>
+</resources>
